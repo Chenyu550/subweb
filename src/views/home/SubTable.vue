@@ -142,6 +142,7 @@ export default {
         { value: 'ssd', text: 'SSD' },
         { value: 'ssr', text: 'SSR' },
         { value: 'loon', text: 'Loon' },
+        { value: 'singbox', text: 'Sing-box' },
       ],
       apiUrl: process.env.VUE_APP_API_URL || window.config.apiUrl,
       shortUrl: process.env.VUE_APP_SHORT_URL || window.config.shortUrl,
